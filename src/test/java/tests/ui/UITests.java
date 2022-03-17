@@ -1,4 +1,4 @@
-package tests;
+package tests.ui;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
@@ -7,7 +7,7 @@ import static PageObject.PageSteps.AuthorizationSteps.*;
 import static PageObject.PageSteps.MainSteps.*;
 import static PageObject.PageSteps.TaskSteps.*;
 
-public class JunitTest {
+public class UITests {
 
     @Test
     @Tag("Работа с Jira")

@@ -1,4 +1,4 @@
-package CucumberSteps;
+package Steps.CucumberSteps;
 
 import io.cucumber.java.ru.Дано;
 import io.cucumber.java.ru.И;

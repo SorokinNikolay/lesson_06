@@ -1,4 +1,4 @@
-package CucumberSteps;
+package Steps.CucumberSteps;
 
 import com.codeborne.selenide.Condition;
 import io.cucumber.java.ru.*;
