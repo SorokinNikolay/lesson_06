@@ -39,7 +39,7 @@ public class WebSettings {
 
     @Attachment(value = "Скриншот")
     public static byte[] getScreenshoot(String resourceName) throws IOException {
-        return Files.readAllBytes(Paths.get("/Users/sorokin/IdeaProjects/lesson_03/build/reports/tests/",
+        return Files.readAllBytes(Paths.get("/build/reports/tests/",
                 resourceName));
     }
 
